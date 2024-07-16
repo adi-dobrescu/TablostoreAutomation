@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "name": "\"PINK BLOOM\"",
+      "variants": {
+        "45 X 60 CM": "499,00 lei",
+        "60 X 80 CM": "599,00 lei",
+        "70 X 100 CM": "699,00 lei"
+      }
+    },
+
+    {
+      "name": "\"SIMPLICITY\"",
+      "variants": {
+        "45 X 60 CM": "199,00 lei",
+        "60 X 80 CM": "249,00 lei",
+        "70 X 100 CM": "299,00 lei"
+      }
+    },
+
+    {
+      "name": "\"FLOWER MISTERY\"",
+      "variants": {
+        "45 X 60 CM": "199,00 lei",
+        "60 X 80 CM": "249,00 lei",
+        "70 X 100 CM": "299,00 lei"
+      }
+    },
+
+    {
+      "name": "\"PASSION\"",
+      "variants": {
+        "45 X 60 CM": "499,00 lei",
+        "60 X 80 CM": "599,00 lei",
+        "70 X 100 CM": "699,00 lei"
+      }
+    },
+
+    {
+      "name": "\"CHARMING WOMEN\"",
+      "variants": {
+        "45 X 60 CM": "499,00 lei",
+        "60 X 80 CM": "599,00 lei",
+        "70 X 100 CM": "699,00 lei"
+      }
+    },
+
+    {
+      "name": "\"MISTERIOUS WOMEN\"",
+      "variants": {
+        "45 X 60 CM": "499,00 lei",
+        "60 X 80 CM": "599,00 lei",
+        "70 X 100 CM": "699,00 lei"
+      }
+    },
+
+    {
+      "name": "\"GOLDEN VIBES\"",
+      "variants": {
+        "45 X 60 CM": "499,00 lei",
+        "60 X 80 CM": "599,00 lei",
+        "70 X 100 CM": "699,00 lei"
+      }
+    },
+
+    {
+      "name": "\"BROWN TOUCH\"",
+      "variants": {
+        "45 X 60 CM": "499,00 lei",
+        "60 X 80 CM": "599,00 lei",
+        "70 X 100 CM": "699,00 lei"
+      }
+    },
+
+    {
+      "name": "\"FLOWER LIPS\"",
+      "variants": {
+        "45 X 60 CM": "499,00 lei",
+        "60 X 80 CM": "599,00 lei",
+        "70 X 100 CM": "699,00 lei"
+      }
+    },
+
+    {
+      "name": "\"ETERNAL BEAUTY\"",
+      "variants": {
+        "45 X 60 CM": "199,00 lei",
+        "60 X 80 CM": "249,00 lei",
+        "70 X 100 CM": "299,00 lei"
+      }
+    },
+
+    {
+      "name": "\"DREAM GARDEN\"",
+      "variants": {
+        "40 X 80 CM": "249,00 lei",
+        "50 X 100 CM": "299,00 lei",
+        "60 X 120 CM": "349,00 lei"
+      }
+    },
+
+    {
+      "name": "\"DREAM WORLD\"",
+      "variants": {
+        "40 X 60 CM": "199,00 lei",
+        "60 X 90 CM": "249,00 lei",
+        "80 X 120 CM": "299,00 lei"
+      }
+    }
+  ]
+}
